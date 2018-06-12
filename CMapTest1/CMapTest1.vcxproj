@@ -122,6 +122,7 @@
   <ItemGroup>
     <ClCompile Include="CMap.cpp" />
     <ClCompile Include="demo1.cpp" />
+    <ClCompile Include="demo2.cpp" />
     <ClCompile Include="Edge.cpp" />
     <ClCompile Include="Node.cpp" />
   </ItemGroup>
